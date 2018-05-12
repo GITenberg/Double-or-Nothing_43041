@@ -16,6 +16,8 @@ description: The classic science-fiction short stories of Jack Sharkey are set a
   inventor Archie and his long-suffering investor Burt stumble across a technology
   that they're sure will be the next big thing. Needless to say, things don't go exactly
   as planned.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43041#Double-or-Nothing
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2013-06-26'
 gutenberg_type: Text
